@@ -106,6 +106,8 @@ const pastaRaiz = "/caminho/para/sua/pasta/raiz";
 criarEstruturaDePastas(estruturaDePastas, pastaRaiz);
 ```
 
+# Créditos: Erick S. / Camilla P.
+
 
 
 
